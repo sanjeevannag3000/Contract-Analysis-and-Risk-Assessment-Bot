@@ -1,0 +1,34 @@
+[
+    {
+        "issue": "Unfavorable IP clauses in vendor contracts",
+        "frequency": 3
+    },
+    {
+        "issue": "Ambiguous termination terms",
+        "frequency": 2
+    },
+    {
+        "issue": "No major risks detected.",
+        "frequency": 1
+    },
+    {
+        "issue": "No major risks detected.",
+        "frequency": 1
+    },
+    {
+        "issue": "No major risks detected.",
+        "frequency": 1
+    },
+    {
+        "issue": "IP Transfer Clause detected.",
+        "frequency": 1
+    },
+    {
+        "issue": "IP Transfer Clause detected.",
+        "frequency": 1
+    },
+    {
+        "issue": "IP Transfer Clause detected.",
+        "frequency": 1
+    }
+]
